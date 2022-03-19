@@ -1,6 +1,7 @@
 {
   "name": "golo-todolist",
   "version": "0.0.1",
-  "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  }
 }
